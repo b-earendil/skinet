@@ -27,7 +27,7 @@
             }
         },
         {
-            "name": ".NET Core Attach",
+            "name": "Api Attach",
             "type": "coreclr",
             "request": "attach"
         }
